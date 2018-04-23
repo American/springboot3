@@ -16,6 +16,7 @@ import java.util.List;
  * 必须放到启动类同一个目录或者子目录下才可以扫描到
  */
 @RestController
+@RequestMapping("/user")
 public class UserController {
 
     @Autowired

@@ -8,6 +8,7 @@ import org.springframework.stereotype.Service;
 import java.util.List;
 
 /**
+ * 请求本地数据库增删改查
  * Created by houbank on 2018/3/27.
  */
 @Service
