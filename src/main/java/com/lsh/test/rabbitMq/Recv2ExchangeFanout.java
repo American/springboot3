@@ -7,7 +7,7 @@ import com.rabbitmq.client.QueueingConsumer;
 /**
  * Created by houbank on 2019/5/31.
  */
-public class Recv2Exchange {
+public class Recv2ExchangeFanout {
 
     private final static String EXCHANGE_NAME = "ex_test01_fanout";
 

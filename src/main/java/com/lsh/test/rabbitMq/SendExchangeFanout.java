@@ -6,7 +6,7 @@ import com.rabbitmq.client.Connection;
 /**
  * Created by houbank on 2019/5/31.
  */
-public class SendExchange {
+public class SendExchangeFanout {
 
     private final static String EXCHANGE_NAME = "ex_test01_fanout";
 
